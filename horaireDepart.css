@@ -1,0 +1,63 @@
+
+#global{
+  color: #ffffff;
+  font-size: large;
+  margin: 0 auto;
+  width: 600px;
+}
+
+table{
+  border : 1px solid  rgb(0, 0, 0);
+  border-collapse: collapse;
+}	
+
+caption{
+  border : 1px solid  #333;
+  background-color: black;
+  color: #ffffff;
+  font-size: larger;
+  padding: 10px;
+}
+
+th{
+  background-color: rgb(146, 146, 146);
+  color: #ffffff;
+  border : 1px solid  #333;
+  padding: 5px;
+  text-align: center;
+}
+
+td[class]:hover{
+outline: 1px solid red;
+}
+
+
+
+td{
+  border : 1px solid  rgb(165, 165, 165);
+  text-align: center;
+}
+			
+.video{
+  background: linear-gradient(to right, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  }
+
+.web{
+  background: linear-gradient(to right, rgba(21,109,34,0) 0%,rgba(21,109,34,0.8) 15%,rgba(21,109,34,1) 19%,rgba(21,109,34,1) 20%,rgba(29,155,37,1) 50%,rgba(21,109,34,1) 80%,rgba(21,109,34,1) 81%,rgba(21,109,34,0.8) 85%,rgba(21,109,34,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */  }
+
+.anim{
+  background: linear-gradient(to right, rgba(187,170,37,0) 0%,rgba(187,170,37,0.8) 15%,rgba(187,170,37,1) 19%,rgba(187,170,37,1) 20%,rgba(221,190,67,1) 50%,rgba(187,170,37,1) 80%,rgba(187,170,37,1) 81%,rgba(187,170,37,0.8) 85%,rgba(187,170,37,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */  }
+
+.fr{
+  background: linear-gradient(to right, rgba(229,111,176,0) 0%,rgba(229,111,176,0.8) 15%,rgba(229,111,176,1) 19%,rgba(229,111,176,1) 20%,rgba(236,142,201,1) 50%,rgba(229,111,176,1) 80%,rgba(229,111,176,1) 81%,rgba(229,111,176,0.8) 85%,rgba(229,111,176,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */  }
+
+.eng{
+  background: linear-gradient(to right, rgba(30,148,154,0) 0%,rgba(30,148,154,0.8) 15%,rgba(30,148,154,1) 19%,rgba(30,148,154,1) 20%,rgba(42,216,210,1) 50%,rgba(30,148,154,1) 80%,rgba(30,148,154,1) 81%,rgba(30,148,154,0.8) 85%,rgba(30,148,154,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */  }
+
+.PCM{
+  background: linear-gradient(to right, rgba(145,30,154,0) 0%,rgba(145,30,154,0.8) 15%,rgba(145,30,154,1) 19%,rgba(145,30,154,1) 20%,rgba(190,42,216,1) 50%,rgba(145,30,154,1) 80%,rgba(145,30,154,1) 81%,rgba(145,30,154,0.8) 85%,rgba(145,30,154,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */;
+  }
+
+.graph{
+  background: linear-gradient(to right, rgba(154,30,51,0) 0%,rgba(154,30,51,0.8) 15%,rgba(154,30,51,1) 19%,rgba(154,30,51,1) 20%,rgba(216,42,86,1) 50%,rgba(154,30,51,1) 80%,rgba(154,30,51,1) 81%,rgba(154,30,51,0.8) 85%,rgba(154,30,51,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */  }
+			
